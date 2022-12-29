@@ -113,3 +113,5 @@ formatTime(numberOfTenthsOfSeconds)
 }
 
 8::Reload
+
+9::ExitApp
